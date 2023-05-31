@@ -4,7 +4,7 @@
 Prática de Loops e arrays para fins de estudos.
 
 
-# Tecnicas e tecnologia utilizada
+# Técnicas e tecnologia utilizada.
 
 Java 8.
 
