@@ -1,3 +1,3 @@
-# loopsEArrays
-Exercícios de loops e arrays em java
+# Praticando Java!
+
 Prática de Loops e arrays para fins de estudos.
